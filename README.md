@@ -1,7 +1,7 @@
 Prerequisites to running this code:
 - you have gcc or another c complier downloaded to your computer
 
-Directions:
+Directions: <br>
 Create free folder in your computer 
 
 Open terminal/command line or a code editor on your computer 
@@ -20,5 +20,5 @@ NOTE: sask_fields.csv does not contain real data, it contains synthetic data cre
 sonnet 5.5 by anthropic. This file is meant to demonstrate the usefullness of my code and is not meant to give any
 real information about fields in saskatchewan. 
 
-Coding editor used: VSCode
+Coding editor used: VSCode <br>
 Programming languages: C 
