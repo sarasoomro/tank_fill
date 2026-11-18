@@ -12,8 +12,7 @@ pull the tank_fill repository to your local directoy
 
 run the following to run the code.
 
-<img width="275" height="40" alt="Screenshot 2026-11-18 at 3 18 09 PM" src="https://github.com/user-attachments/assets/7bdbdbd7-b69c-40df-b9b5-6751fc4f20b9" />
-
+<img width="656" height="60" alt="Screenshot 2026-11-18 at 3 39 19 PM" src="https://github.com/user-attachments/assets/6821882e-4265-4a40-b4f5-fa8e642778f0" />
 
 This runs the code and puts the elements in your out.csv folder
 
